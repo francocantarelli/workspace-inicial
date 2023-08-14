@@ -36,7 +36,7 @@ function validarFormulario(event) {
 
 function registrado(){
     if(validarFormulario()){
-        window.location.href = "index-del-login.html";
+        window.location.href = "index.html";
     }
 }
 
